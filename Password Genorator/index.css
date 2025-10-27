@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    display: block;
+font-family: "poppins",    
+;
+    color:white
+}
+#title {
+   margin-left: 40px;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 40px;
+line-height: 40px;
+letter-spacing: -2.5%;
+
+}
+
+#randpass {
+    color: #00CC66;
+   
+}
+#span1{
+  color: #00CC66;
+}
+.poppins-regular {
+  font-family: "Poppins",;
+  font-weight: 400;
+  font-style: normal;
+}
+#button-el{
+    width: 191;
+height: 42;
+top: 284px;
+left: 52px;
+border: 1px solid #10B981;
+border-radius: 6px;
+padding-top: 9px;
+padding-right: 17px;
+padding-bottom: 9px;
+padding-left: 15px;
+margin-left: 40px;
+ background: #10B981;
+ color: white;
+ font-family: "poppins",
+;
+}
+
+p{
+    margin-left: 40px;
+}
+
+#password-1, #password-2 {
+    width: 211px;
+    height: 39px;
+    background-color: #273549; /* that dark blue-gray */
+    border-radius: 6px; /* rounded corners */
+    display: inline-block; /* so they sit side by side */
+    margin-right: 12px; /* space between them */
+    padding: 10px 15px; /* inner spacing for text */
+    font-family: Karla;
+    color: #55F991; /* bright green for password text */
+    text-align: center;
+    line-height: 39px; /* vertically center text */
+}
+#password-container {
+    display: flex;
+    gap: 12px; /* space between boxes */
+    margin-top: 35px;
+    }
